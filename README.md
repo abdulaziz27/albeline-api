@@ -1,6 +1,7 @@
 ## Configuration For Running Albeline-Api
 
 <p>
+
 0. Follow instagram.com/12dz27 or @ad_dulziz
 
 1. configure your database in .env file! If you wanna use MySQL you could copy all of the variables in .env.copy file after that you paste in .env file and don't forget to adjust with your database configuration.
